@@ -1,0 +1,15 @@
+[
+   {
+      "name": "Redmi Note 7",
+      "brand": "Xiaomi",
+      "codename": "lavender",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+	    "maintainer_name": "MoveAngel",
+	    "maintainer_url": "https://github.com/MoveAngel",
+            "xda_thread": "Soon"
+         }
+      ]
+   }
+]
